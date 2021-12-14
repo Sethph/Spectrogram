@@ -11,6 +11,6 @@ package com.mycompany.spectrogram;
  */
 public class Main {
     public static void main(String[] args) {
-        
+        Wave wave =
     }
 }

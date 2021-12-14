@@ -14,7 +14,7 @@ import java.io.InputStream;
  * @author sethp
  */
 public class Wave {
-    byte[] waveHeader;
+    WaveHeader waveHeader;
     byte[] data;
 
     public Wave(InputStream inputStream) throws FileNotFoundException, IOException {
